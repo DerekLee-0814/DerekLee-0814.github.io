@@ -6,15 +6,10 @@ Use this markdown file to write the contents of your webpage. Below is an outlin
 
 ## Overview
 
-Ideas For Project
-  Game could have 
-    health, healing, weapons, and magic abilities
-      both projectile and melee weapons?
-      healing abilities such as a first aid kit?
-    2-3 different types of enemies
-       fast - fast,shotgunner type enemy
-       medium - medium damage enemy
-       slow - sniper sort of enemy
+### Ideas For Project
+- Game could have health, healing, weapons, and magic abilities both projectile and melee weapons? healing abilities such as a first aid kit?
+- 2-3 different types of enemies fast - fast,shotgunner type enemy medium - medium damage enemy slow - sniper sort of enemy
+- Goal for the player: See how many kills they could get before time runs out or gets eliminated
 
 Introduce the project:
 - Roughly describe what the user must do in your project.
